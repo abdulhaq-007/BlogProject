@@ -1,2 +1,0 @@
-# BlogProject
-web-blog
